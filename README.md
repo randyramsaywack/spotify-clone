@@ -6,4 +6,6 @@
 
 - [x] Create React App
 - [x] Clean up default app
+- [x] Create login page
+- [x] Allow login using Spotify API
 - [ ] Create login page
