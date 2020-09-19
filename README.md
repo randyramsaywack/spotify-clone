@@ -8,4 +8,8 @@
 - [x] Clean up default app
 - [x] Create login page
 - [x] Allow login using Spotify API
-- [ ] Create login page
+- [x] React Context API / Data Layer
+- [] Create UI
+  - [x] Sidebar
+  - [x] Footer
+  - [] Body
