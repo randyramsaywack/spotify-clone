@@ -4,7 +4,7 @@
   justify-content: space-between;
   bottom: 0;
   height: 65px;
-  width: 96%;
+  width: 99%;
   background-color: #282828;
   padding: 20px;
 }
@@ -50,6 +50,8 @@
 
 .footer__right * .MuiSlider-root {
   color: green;
+  min-width: 40%;
+  max-width: 80%;
 }
 
 .footer__green {
